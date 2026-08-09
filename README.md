@@ -15,7 +15,7 @@ Created a promotional video for Alfido Tech internships/services using video edi
 
 ### Deliverable
 
-🎥 [Watch / Download Promotion Video](./promotion%20video%20task%202.mp4)
+https://drive.google.com/file/d/1MdrybyqqrM6Yv-N8ZP8CfwUhIX4Es25F/view?usp=drivesdk
 
 ### Video Details
 - **Task:** Promotion Video
