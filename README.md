@@ -5,7 +5,7 @@
 Created promotional posters for Alfido Tech internship opportunities.
 
 ### Deliverable
-- Poster PDF: `Alfido Tech Posters Task 1.pdf`
+- Poster PDF: `https://drive.google.com/file/d/1Tzs6ApqHHkkVp3yJuc5j3wFVLbdnITZo/view?usp=drivesdk
 
 ---
 
